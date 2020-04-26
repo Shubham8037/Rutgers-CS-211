@@ -1,5 +1,5 @@
 # Rutgers CS 211
-CS 211 Computer Architectur at Rutgers University
+CS 211 Computer Architecture at Rutgers University
 
 Professor David Menendez
 
